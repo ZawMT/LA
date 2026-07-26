@@ -1,6 +1,6 @@
 ## By the way vs by the wayside
 **by the wayside** is a part of the expression **to fall by the wayside** meaning __to be abandoned, neglected, or dropped along the way__. **go by the wayside** is a common informal variant, but a careful writer would prefer **fall**.  
-**by the way** is unrelated: it means "incidentally," used to introduce a side remark. Originally it meant something noticed while travelling along the road, so the two expressions share a root metaphor but have drifted far apart. Quick test: if you can substitute "incidentally," it's **by the way**. If you can substitute "abandoned" or "left behind," it's **by the wayside**.  
+**by the way** means __incidentally__, used to introduce a side remark. Originally it meant something noticed while travelling along the road, so the two expressions share a root metaphor but have drifted far apart. Quick test: if you can substitute "incidentally," it's **by the way**. If you can substitute "abandoned" or "left behind," it's **by the wayside**.  
 Eg.   
 A lot of marriages fall by the wayside because couples cannot talk to each other.   
 By the way, how is John?    
